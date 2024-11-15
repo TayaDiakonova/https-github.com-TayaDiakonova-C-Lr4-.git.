@@ -1,7 +1,7 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-class Material {  // Name of material warehouse +
+class Material {  // Name of material 
     private String sklad;
     private double startBalance;
     private double received;
